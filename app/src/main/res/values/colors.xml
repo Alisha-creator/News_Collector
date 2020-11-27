@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7B1FA2</color>
+    <color name="colorPrimaryDark">#8E24AA</color>
+    <color name="colorAccent">#1e344b</color>
+
+    <color name="black">#8F8F8F</color>
+    <color name="white">#f7f6f9</color>
+    <color name="grey">#eeefee</color>
+
+    <color name="drak_blue">#3023AE</color>
+    <color name="purple">#c86dd7</color>
+
+    <color name="colorBackground">#f9f9fa</color>
+    <color name="colorTextSubtitle">#4e4e4e</color>
+    <color name="colorTextTitle">#262626</color>
+</resources>
